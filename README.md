@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I am an **Informatics Engineering Student** with a passion for technology and creative media. I love combining code with creativity.
+I am an **Informatics Engineering Student** at **Universitas Airlangga**, Surabaya. Passionate about technology and creative media, I love combining code with creativity.
 
 - 🔭 I’m currently working on **Web Development & UI/UX Projects**
 - 🌱 I’m currently learning **Machine Learning & Advanced Frontend**
@@ -10,12 +10,6 @@ I am an **Informatics Engineering Student** with a passion for technology and cr
 - ⚡ Fun fact: I love making short films and editing videos!
 
 ---
-
-Tentu, ini adalah kode yang sudah diperbarui. Saya telah menambahkan CapCut, Lightroom, Canva, dan Snapseed ke dalam bagian Design Tools dengan warna dan logo yang sesuai.
-
-Silakan Copy dan Paste seluruh kode di bawah ini untuk menggantikan yang lama:
-
-Markdown
 
 ## 🚀 Everything I know and have learned
 
