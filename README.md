@@ -7,7 +7,7 @@ I am an **Informatics Engineering Student** at **Universitas Airlangga**, Suraba
 - 🔭 I’m currently working on **Web Development & UI/UX Projects**
 - 🌱 I’m currently learning **Machine Learning & Advanced Frontend**
 - 🎨 I have a strong background in **Videography, Photography, and Graphic Design**
-- ⚡ Fun fact: I love making short films and editing videos!
+- ⚡ Fun fact: I love making **short films and editing videos**!
 
 ---
 
