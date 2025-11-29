@@ -90,7 +90,9 @@ I am an **Informatics Engineering Student** at **Universitas Airlangga**, Suraba
 
 ### Others
 <p>
-  
+  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
@@ -98,5 +100,3 @@ I am an **Informatics Engineering Student** at **Universitas Airlangga**, Suraba
 </picture>
 
 ###
-  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-</p>
