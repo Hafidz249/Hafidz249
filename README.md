@@ -96,14 +96,16 @@ I am an **Informatics Engineering Student** at **Universitas Airlangga**, Suraba
   <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-<!-- 
-<br>
 
 ### GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hafidz249&show_icons=true&hide_border=true&theme=dark&card_width=350) -->
+### 📊 My GitHub Stats
 
+### 📊 My GitHub Stats
 
+![Hafidz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hafidz249&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hafidz249&layout=compact&theme=dark&hide_border=true)
 
 ### 🐍 Pacman Contribution Graph
 ![Pacman](https://raw.githubusercontent.com/Hafidz249/Hafidz249/output/pacman-contribution-graph-dark.svg)
