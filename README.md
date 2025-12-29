@@ -106,7 +106,7 @@ I am an **Informatics Engineering Student** at **Universitas Airlangga**, Suraba
 
 
 ### 🐍 Pacman Contribution Graph
-![Pacman](https://raw.githubusercontent.com/Hafidz249/Hafidz249/output/pacman-contribution-graph.svg)
+![Pacman](https://raw.githubusercontent.com/Hafidz249/Hafidz249/output/pacman-contribution-graph-dark.svg)
 
 
 
