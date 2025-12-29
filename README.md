@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 
-  <a href="[https://www.instagram.com/hfdz24_?igsh=dnFmanMxeThva2t2]" target="_blank">
+  <a href="https://www.instagram.com/hfdz24_?igsh=dnFmanMxeThva2t2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 
